@@ -22,7 +22,7 @@ I build practical software with attention to correctness, clear interfaces, and 
 | Project | Engineering focus | Stack |
 | --- | --- | --- |
 | [Mini-Redis](https://github.com/nsks2509-coder/mini-redis-cpp) | RESP server with Linux `epoll`, custom hash table, TTL/LRU, fsynced AOF, snapshots, crash-recovery checks, and sanitizer workflows. | C++20 · CMake · GoogleTest |
-| [Seat Booking API](https://github.com/nsks2509-coder/seat-booking-backend) | Concurrency-safe seat holds and bookings with PostgreSQL locks/constraints, idempotency, JWT roles, Redis rate limits, and integration tests. | Java 21 · Spring Boot · PostgreSQL · Redis |
+| [Seat Booking API](https://github.com/nsks2509-coder/seat-booking-backend) · [Live API](https://seat-booking-api-enoq.onrender.com/actuator/health) | Concurrency-safe seat holds and bookings with PostgreSQL locks/constraints, idempotency, JWT roles, Redis rate limits, and integration tests. | Java 21 · Spring Boot · PostgreSQL · Redis |
 | [Campus Lost & Found Portal](https://github.com/nsks2509-coder/campus-lost-found-portal) | Full-stack portal for item reports, search, validated uploads, and an admin workflow. | Java · Spring Boot · Spring Security · Thymeleaf |
 | [CampusFind](https://github.com/nsks2509-coder/campusfind-frontend) | Campus lost-and-found MVP with searchable listings and claim requests. [Live demo](https://campusfind-frontend-chi.vercel.app) · [API](https://github.com/nsks2509-coder/campusfind-backend) | React · Vite · Java · Spring Boot |
 | [Expense Tracker](https://github.com/nsks2509-coder/expense-tracker) | Personal finance app with INR-safe amounts, summaries, and CSV export. | Python · SQLite |
