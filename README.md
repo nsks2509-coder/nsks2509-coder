@@ -21,6 +21,26 @@ I build useful web applications with a focus on clear user flows, careful data h
 | --- | --- | --- |
 | [Campus Lost & Found Portal](https://github.com/nsks2509-coder/campus-lost-found-portal) | A full-stack portal to report, search, and manage lost and found items, with an admin workflow and validated image uploads. | Java · Spring Boot · Spring Security · Thymeleaf |
 | [Expense Tracker](https://github.com/nsks2509-coder/expense-tracker) | A personal finance app with precise INR amounts, monthly and category summaries, and CSV export. | Python · SQLite |
+| CampusFind (MVP) | A campus lost-and-found demo with searchable listings and claim request submission. | React · Vite · Java · Spring Boot |
+
+**CampusFind links:** [Live demo](https://campusfind-frontend-chi.vercel.app) · [UI repository](https://github.com/nsks2509-coder/campusfind-frontend) · [API repository](https://github.com/nsks2509-coder/campusfind-backend)
+
+## Tools I use
+
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs
+- **Frontend:** React, Vite
+- **Data:** SQL, SQLite, H2
+- **Workflow:** Git, Maven, GitHub Actions
+
+I’m building depth in API design, test coverage, and thoughtful UI. I’m interested in software engineering internships where I can contribute to real products, learn from code reviews, and grow with a team.
+
+
+## Featured projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Campus Lost & Found Portal](https://github.com/nsks2509-coder/campus-lost-found-portal) | A full-stack portal to report, search, and manage lost and found items, with an admin workflow and validated image uploads. | Java · Spring Boot · Spring Security · Thymeleaf |
+| [Expense Tracker](https://github.com/nsks2509-coder/expense-tracker) | A personal finance app with precise INR amounts, monthly and category summaries, and CSV export. | Python · SQLite |
 | [CampusFind UI](https://github.com/nsks2509-coder/campusfind-frontend) · [API](https://github.com/nsks2509-coder/campusfind-backend) | A campus lost-and-found demo split into a React interface and Spring Boot API, with searchable listings and claim submission. | React · Vite · Java · Spring Boot |
 
 ## Tools I use
